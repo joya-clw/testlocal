@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'bemap-portal'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_718f05c02fe24711af089592e52e1f92 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_37c17136a5e84e8ab3bb99095cabed66 }}
         package: .
